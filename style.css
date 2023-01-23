@@ -1,0 +1,22 @@
+
+body{
+    background-color: rgb(107, 104, 100);
+}
+.card{
+  margin: 70px;
+  background-color:whitesmoke;
+  
+}
+footer{
+    background-color: blanchedalmond;
+    position: relative;
+    text-align: center;
+    
+}
+nav{
+    background-color: rgb(166, 157, 143);
+
+}
+a{
+    color: black;
+}
